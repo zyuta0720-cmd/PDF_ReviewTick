@@ -5,17 +5,19 @@
 ## 📌 概要
 ReviewTick は、PDF形式の図面や技術資料における検図作業を効率化するためのデスクトップアプリケーションです。
 指定したキーワード（図番、定数、部品番号など）を自動で探し出し、確認の印として「●（ドット）」や「✔（チェックマーク）」を正確な位置に書き込みます。
-
-チェックしました感を出す場合　「✔（チェックマーク）」
-一文字一文字見ました感を出す場合　「●（ドット）」
+「✔（チェックマーク）」
+「●（ドット）」
 を選べます。
 （どちらも、チェック内容は同じです。　目視よりは確実です。）
 
 メイン操作画面
-<img width="1917" height="1153" alt="image" src="https://github.com/user-attachments/assets/210487b3-828e-4506-99a1-a5623dfb5c8f" />
+
+<img width="1916" height="1143" alt="image" src="https://github.com/user-attachments/assets/d32dceda-4703-4b9e-b4c7-f8c23091fb32" />
+
+
 
 チェックした場所はログにも残ります。
-<img width="738" height="699" alt="image" src="https://github.com/user-attachments/assets/53bb6794-f82b-4f4f-b376-812e638e1192" />
+
 
 ## ✨ 主な機能
 一括注釈付与: 複数のテキストを一括検索し、すべての出現箇所に注釈を追加。
